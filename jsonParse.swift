@@ -29,4 +29,4 @@ func httpsGet(){
             }
         }
         task.resume()
-    }
+}
